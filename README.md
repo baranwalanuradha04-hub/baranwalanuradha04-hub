@@ -14,7 +14,7 @@ I am currently developing my career in **Data Analytics and Technology** through
 
 I enjoy working with data — finding useful insights and using technology to support better business decisions. 📈
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 About Me
 
@@ -24,7 +24,7 @@ I enjoy working with data — finding useful insights and using technology to su
 - 🌍 Based in London, UK
 - 📚 Committed to continuous learning and professional development in data and technology
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🎓 Data & Technology Training
 
@@ -39,7 +39,7 @@ As part of my Data Technician training, I have developed practical knowledge in:
 - 🔒 Data governance
 - 🧱 Data structures
 - 🌐 Relational and non-relational data
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠️ Skills & Tools
 
 **Data Analysis & Visualisation**
@@ -54,7 +54,7 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔧 Tools & Technologies — Supporting My Data Analysis Workflow
 
@@ -79,14 +79,18 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 **Salesforce** — Certified Salesforce Administrator and Platform App Builder, with experience managing business systems, data, and reporting through the Salesforce platform.
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌 Featured Projects
 
-- 📁 [My-Excel-Projects](https://github.com/baranwalanuradha04-hub/My-Excel-Projects) — data analysis using formulas, PivotTables, and charts on retail & sales data
-- 📁 [My-SQL-Projects](https://github.com/baranwalanuradha04-hub/My-SQL-Projects) — relational database design and querying with SELECT, JOINs, and GROUP BY
 
----
+
+* 📁 [My-Excel-Projects](https://github.com/baranwalanuradha04-hub/My-Excel-Projects) — data analysis using formulas, PivotTables, and charts on retail & sales data
+* 📁 [My-SQL-Projects](https://github.com/baranwalanuradha04-hub/My-SQL-Projects) — relational database design and querying with SELECT, JOINs, and GROUP BY
+* 📁 [My-Python-Projects](https://github.com/baranwalanuradha04-hub/My-Python-Projects) — Python scripts and mini-projects covering core programming concepts, data handling, and automation
+* 📁 [Python-Pandas-Projects-](https://github.com/baranwalanuradha04-hub/Python-Pandas-Projects-) — data cleaning, transformation, and analysis using the pandas library
+* 📁 [MY-Power-BI-and-Tableau-Projects](https://github.com/baranwalanuradha04-hub/MY-Power-BI-and-Tableau-Projects) — interactive dashboards and reports built in Power BI and Tableau, covering retail, sales, music, health, and employment data
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔗 Connect With Me
 
@@ -130,5 +134,5 @@ developing my skills.
 
 ---
 
----
+
 
