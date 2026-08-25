@@ -1,7 +1,19 @@
 
-# Hi, I'm Anuradha 👋
+# 👋 Hi, I'm Anuradha 
 
-Transitioning into a career in **Data & Technology**, bringing an organised, detail-focused background from administration, data entry, and Salesforce project work.
+## 🧑‍💻 About Me
+### 📊 Aspiring Data Analyst | Data Technician | Salesforce Administrator
+
+Welcome to my GitHub profile! 👋
+
+I am an organised and detail-focused professional with experience in **Salesforce
+Administration, data management, administration and reporting**.
+
+I am currently developing my career in **Data Analytics and Technology** through a
+Level 3 Digital Skills Bootcamp in Data Technician with Leep Talent.
+
+I enjoy working with data, finding useful insights and using technology to support
+better business decisions. 📈
 
 ---
 
@@ -9,11 +21,28 @@ Transitioning into a career in **Data & Technology**, bringing an organised, det
 
 - 🎓 Retraining as a **Data Technician** through a Level 3 Digital Skills Bootcamp with **LeepTalent**
 - ✅ Certified **Salesforce Administrator** and **Salesforce Platform App Builder**
+- 📚 Experience creating reports and dashboards  
 - 📈 Developing practical experience in data structures, data architecture & governance, and data visualisation
-- 🔹 Building foundational skills in **Python** for data analysis
+- 📚 Building foundational skills in **Python** for data analysis
+- 📚 Interested in Data Analytics, Data Visualisation and Data Technology  
 - 🌍 Based in London, UK
 - 📚 Committed to continuous learning and professional development in data and technology
 
+## 🎓 Data & Technology Training
+As part of my Data Technician training, I have developed practical knowledge in:
+
+- 📊 Data Analysis using Microsoft Excel
+- 📈 Data Visualisation using Excel, Tableau and Power BI
+- 🐍 Python for Data Analysis
+- 🐼 Pandas
+- 📉 Matplotlib
+- 📊 Seaborn
+- 🗄️ SQL and databases
+- ☁️ Microsoft Azure
+- 🏗️ Data Architecture
+- 🔐 Data Governance
+- 📦 Data Structures
+- 🌐 Relational and non-relational data
 ---
 
 ### 🛠️ Skills & Tools
@@ -69,6 +98,40 @@ Transitioning into a career in **Data & Technology**, bringing an organised, det
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-baranwal-b07119262)
 [![Salesforce Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/abaranwal)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/anuradha.baranwal/vizzes)
+
+## 🏸 Outside of Work
+
+When I'm not working with data, I enjoy:
+
+🏸 Playing badminton  
+🍳 Cooking  
+🎵 Listening to music
+
+
+## 🎯 Career Goal
+
+I am looking to build a career in **Data Analysis and Data Technology**, where I
+can combine my previous experience with my new technical skills.
+
+My goal is to use data to:
+
+📊 Find useful insights  
+🔎 Identify trends and patterns  
+📈 Create clear reports and visualisations  
+💡 Support better business decisions  
+⚙️ Improve business processes  
+
+I am particularly interested in opportunities where I can continue learning and
+developing my skills.
+
+⭐ Feel free to explore my repositories and follow my journey into Data Analytics.
+
+
+
+
+
+
+---
 
 ---
 
