@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Anuradha
 
----
+
+# Hi there, I'm Anuradha! 👋
+
+![Focus](https://img.shields.io/badge/FOCUS-Data_Analysis-E74C3C?style=for-the-badge) ![Status](https://img.shields.io/badge/STATUS-Open_to_Work-2ECC71?style=for-the-badge)
 
 ### 🙋 About Me
 
