@@ -1,19 +1,16 @@
+# 👋 Hi, I'm Anuradha
 
-# 👋 Hi, I'm Anuradha 
+---
 
-## 🧑‍💻 About Me
-### 📊 Aspiring Data Analyst | Data Technician | Salesforce Administrator
+### 🙋 About Me
 
-Welcome to my GitHub profile! 👋
+📊 **Aspiring Data Analyst | Data Technician | Salesforce Administrator**
 
-I am an organised and detail-focused professional with experience in **Salesforce
-Administration, data management, administration and reporting**.
+I am an organised and detail-focused professional with experience in **Salesforce Administration, data management, and reporting**.
 
-I am currently developing my career in **Data Analytics and Technology** through a
-Level 3 Digital Skills Bootcamp in Data Technician with Leep Talent.
+I am currently developing my career in **Data Analytics and Technology** through a Level 3 Digital Skills Bootcamp with **LeepTalent**.
 
-I enjoy working with data, finding useful insights and using technology to support
-better business decisions. 📈
+I enjoy working with data — finding useful insights and using technology to support better business decisions. 📈
 
 ---
 
@@ -21,29 +18,25 @@ better business decisions. 📈
 
 - 🎓 Retraining as a **Data Technician** through a Level 3 Digital Skills Bootcamp with **LeepTalent**
 - ✅ Certified **Salesforce Administrator** and **Salesforce Platform App Builder**
-- 📚 Experience creating reports and dashboards  
-- 📈 Developing practical experience in data structures, data architecture & governance, and data visualisation
-- 📚 Building foundational skills in **Python** for data analysis
-- 📚 Interested in Data Analytics, Data Visualisation and Data Technology  
+- 📊 Experience creating reports and dashboards
 - 🌍 Based in London, UK
 - 📚 Committed to continuous learning and professional development in data and technology
 
-## 🎓 Data & Technology Training
+---
+
+### 🎓 Data & Technology Training
+
 As part of my Data Technician training, I have developed practical knowledge in:
 
-- 📊 Data Analysis using Microsoft Excel
-- 📈 Data Visualisation using Excel, Tableau and Power BI
-- 🐍 Python for Data Analysis
-- 🐼 Pandas
-- 📉 Matplotlib
-- 📊 Seaborn
+- 📊 Data analysis using Microsoft Excel
+- 📈 Data visualisation using Excel, Tableau, and Power BI
+- 🐍 Python for data analysis (Pandas, Matplotlib, Seaborn)
 - 🗄️ SQL and databases
 - ☁️ Microsoft Azure
-- 🏗️ Data Architecture
-- 🔐 Data Governance
-- 📦 Data Structures
+- 🏗️ Data architecture
+- 🔒 Data governance
+- 🧱 Data structures
 - 🌐 Relational and non-relational data
----
 
 ### 🛠️ Skills & Tools
 
@@ -98,6 +91,8 @@ As part of my Data Technician training, I have developed practical knowledge in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-baranwal-b07119262)
 [![Salesforce Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/abaranwal)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/anuradha.baranwal/vizzes)
+
+
 
 ## 🏸 Outside of Work
 
