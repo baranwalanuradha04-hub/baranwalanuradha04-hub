@@ -124,9 +124,9 @@ Motor Claims & Customer Service
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Trailblazer](https://img.shields.io/badge/TRAILBLAZER-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/YOUR-TRAILBLAZER-HANDLE)
-[![Tableau Public](https://img.shields.io/badge/TABLEAU%20PUBLIC-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR-TABLEAU-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-baranwal-b07119262/)
+[![Trailblazer](https://img.shields.io/badge/TRAILBLAZER-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/abaranwal)
+[![Tableau Public](https://img.shields.io/badge/TABLEAU%20PUBLIC-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/anuradha.baranwal/vizzes)
 [![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/list?experience=power-bi)
 ---
 
