@@ -90,6 +90,30 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 
 ---
+
+Motor Claims & Customer Service
+              │
+              ▼
+       Excel & Reporting
+              │
+              ▼
+       Data Technician Bootcamp
+              │
+       ┌──────┼────────┐
+       ▼      ▼        ▼
+      SQL   Tableau   Power BI
+       │      │        │
+       └──────┼────────┘
+              ▼
+           Python
+              │
+              ▼
+       Azure & Cloud Data
+              │
+              ▼
+      🚀 Data Analytics Career
+
+      ---
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
