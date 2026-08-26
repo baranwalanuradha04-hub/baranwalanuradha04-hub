@@ -1,7 +1,8 @@
 
 # Hi there, I'm Anuradha! 👋
 
-![Focus](https://img.shields.io/badge/FOCUS-Data_Analysis-AED6F1?style=for-the-badge&logoColor=black) ![Status](https://img.shields.io/badge/STATUS-Open_to_Work-F9E79F?style=for-the-badge&logoColor=black)
+![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYSIS-2C3E50?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2E7D32?style=flat-square)
 
 ### 🙋 About Me
 
@@ -104,26 +105,29 @@ When I'm not working with data, I enjoy:
 
 ---
 
-### 🎯 Career Goal
+⭐ Feel free to explore my repositories and follow my journey into Data Analytics.
+###   🎯 What I'm Looking For
 
-I am looking to build a career in **Data Analysis and Data Technology**, where I can combine my previous experience with my new technical skills.
+I am looking to build a career in **Data Analysis and Data Technology**, combining my hands-on experience with **Python, Pandas, SQL, and Microsoft Azure** to help organisations make better data-driven decisions.
 
 My goal is to use data to:
-
 - 📊 Find useful insights
-- 🔎 Identify trends and patterns
-- 📈 Create clear reports and visualisations
+- 🔍 Identify trends and patterns
+- 📈 Create clear reports and visualisations with Power BI
 - 💡 Support better business decisions
-- ⚙️ Improve business processes
+- ⚙️ Improve business processes through automation and data modelling
 
-I am particularly interested in opportunities where I can continue learning and developing my skills.
+I'm particularly interested in roles where I can keep developing across the full data lifecycle — from cleaning and querying data to visualising and presenting it.
+
+**Roles of interest:**
+`Data Analyst` · `Junior Data Analyst` · `Data Technician` · `Business Intelligence Analyst`
 
 ⭐ Feel free to explore my repositories and follow my journey into Data Analytics.
 
+-------------
 
 
 
----
 
 
 
