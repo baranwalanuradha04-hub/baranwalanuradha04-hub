@@ -1,22 +1,15 @@
 
-
 # Hi there, I'm Anuradha! 👋
 
-![Focus](https://img.shields.io/badge/FOCUS-Data_Analysis-E74C3C?style=for-the-badge) ![Status](https://img.shields.io/badge/STATUS-Open_to_Work-2ECC71?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Data_Analysis-AED6F1?style=for-the-badge&logoColor=black) ![Status](https://img.shields.io/badge/STATUS-Open_to_Work-F9E79F?style=for-the-badge&logoColor=black)
 
 ### 🙋 About Me
 
 📊 **Aspiring Data Analyst | Data Technician | Salesforce Administrator**
 
-I am an organised and detail-focused professional with experience in **Salesforce Administration, data management, and reporting**.
-
-I am currently developing my career in **Data Analytics and Technology** through a Level 3 Digital Skills Bootcamp with **LeepTalent**.
+I am an organised and detail-focused professional with experience in **Salesforce Administration, data management, and reporting**. I am currently developing my career in **Data Analytics and Technology** through a Level 3 Digital Skills Bootcamp with **LeepTalent**.
 
 I enjoy working with data — finding useful insights and using technology to support better business decisions. 📈
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📊 About Me
 
 - 🎓 Retraining as a **Data Technician** through a Level 3 Digital Skills Bootcamp with **LeepTalent**
 - ✅ Certified **Salesforce Administrator** and **Salesforce Platform App Builder**
@@ -24,7 +17,7 @@ I enjoy working with data — finding useful insights and using technology to su
 - 🌍 Based in London, UK
 - 📚 Committed to continuous learning and professional development in data and technology
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 🎓 Data & Technology Training
 
@@ -39,7 +32,9 @@ As part of my Data Technician training, I have developed practical knowledge in:
 - 🔒 Data governance
 - 🧱 Data structures
 - 🌐 Relational and non-relational data
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 ### 🛠️ Skills & Tools
 
 **Data Analysis & Visualisation**
@@ -54,7 +49,7 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 🔧 Tools & Technologies — Supporting My Data Analysis Workflow
 
@@ -79,18 +74,17 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 **Salesforce** — Certified Salesforce Administrator and Platform App Builder, with experience managing business systems, data, and reporting through the Salesforce platform.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 📌 Featured Projects
 
+- 📁 [My-Excel-Projects](https://github.com/baranwalanuradha04-hub/My-Excel-Projects) — data analysis using formulas, PivotTables, and charts on retail & sales data
+- 📁 [My-SQL-Projects](https://github.com/baranwalanuradha04-hub/My-SQL-Projects) — relational database design and querying with SELECT, JOINs, and GROUP BY
+- 📁 [My-Python-Projects](https://github.com/baranwalanuradha04-hub/My-Python-Projects) — Python scripts and mini-projects covering core programming concepts, data handling, and automation
+- 📁 [Python-Pandas-Projects-](https://github.com/baranwalanuradha04-hub/Python-Pandas-Projects-) — data cleaning, transformation, and analysis using the pandas library
+- 📁 [MY-Power-BI-and-Tableau-Projects](https://github.com/baranwalanuradha04-hub/MY-Power-BI-and-Tableau-Projects) — interactive dashboards and reports built in Power BI and Tableau, covering retail, sales, music, health, and employment data
 
-
-* 📁 [My-Excel-Projects](https://github.com/baranwalanuradha04-hub/My-Excel-Projects) — data analysis using formulas, PivotTables, and charts on retail & sales data
-* 📁 [My-SQL-Projects](https://github.com/baranwalanuradha04-hub/My-SQL-Projects) — relational database design and querying with SELECT, JOINs, and GROUP BY
-* 📁 [My-Python-Projects](https://github.com/baranwalanuradha04-hub/My-Python-Projects) — Python scripts and mini-projects covering core programming concepts, data handling, and automation
-* 📁 [Python-Pandas-Projects-](https://github.com/baranwalanuradha04-hub/Python-Pandas-Projects-) — data cleaning, transformation, and analysis using the pandas library
-* 📁 [MY-Power-BI-and-Tableau-Projects](https://github.com/baranwalanuradha04-hub/MY-Power-BI-and-Tableau-Projects) — interactive dashboards and reports built in Power BI and Tableau, covering retail, sales, music, health, and employment data
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 🔗 Connect With Me
 
@@ -98,36 +92,33 @@ As part of my Data Technician training, I have developed practical knowledge in:
 [![Salesforce Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/abaranwal)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/anuradha.baranwal/vizzes)
 
+---
 
-
-## 🏸 Outside of Work
+### 🏸 Outside of Work
 
 When I'm not working with data, I enjoy:
 
-🏸 Playing badminton  
-🍳 Cooking  
-🎵 Listening to music
+- 🏸 Playing badminton
+- 🍳 Cooking
+- 🎵 Listening to music
 
+---
 
-## 🎯 Career Goal
+### 🎯 Career Goal
 
-I am looking to build a career in **Data Analysis and Data Technology**, where I
-can combine my previous experience with my new technical skills.
+I am looking to build a career in **Data Analysis and Data Technology**, where I can combine my previous experience with my new technical skills.
 
 My goal is to use data to:
 
-📊 Find useful insights  
-🔎 Identify trends and patterns  
-📈 Create clear reports and visualisations  
-💡 Support better business decisions  
-⚙️ Improve business processes  
+- 📊 Find useful insights
+- 🔎 Identify trends and patterns
+- 📈 Create clear reports and visualisations
+- 💡 Support better business decisions
+- ⚙️ Improve business processes
 
-I am particularly interested in opportunities where I can continue learning and
-developing my skills.
+I am particularly interested in opportunities where I can continue learning and developing my skills.
 
 ⭐ Feel free to explore my repositories and follow my journey into Data Analytics.
-
-
 
 
 
