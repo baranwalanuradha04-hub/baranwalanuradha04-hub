@@ -10,32 +10,33 @@
 
 I am an organised and detail-focused professional with experience in **Salesforce Administration, data management, and reporting**. I am currently developing my career in **Data Analytics and Technology** through a Level 3 Digital Skills Bootcamp with **LeepTalent**.
 
+
+
+---
 I enjoy working with data — finding useful insights and using technology to support better business decisions. 📈
 
-- 🎓 Retraining as a **Data Technician** through a Level 3 Digital Skills Bootcamp with **LeepTalent**
-- ✅ Certified **Salesforce Administrator** and **Salesforce Platform App Builder**
-- 📊 Experience creating reports and dashboards
-- 🌍 Based in London, UK
-- 📚 Committed to continuous learning and professional development in data and technology
+- 🔸 Retraining as a **Data Technician** through a Level 3 Digital Skills Bootcamp with **LeepTalent**
+- 🔹 Certified **Salesforce Administrator** and **Salesforce Platform App Builder**
+- 🔸 Experience creating reports and dashboards
+- 🔹 Based in London, UK
+- 🔸 Committed to continuous learning and professional development in data and technology
 
 ---
 
-### 🎓 Data & Technology Training
+## 🎓 Data & Technology Training
 
 As part of my Data Technician training, I have developed practical knowledge in:
 
-- 📊 Data analysis using Microsoft Excel
-- 📈 Data visualisation using Excel, Tableau, and Power BI
-- 🐍 Python for data analysis (Pandas, Matplotlib, Seaborn)
-- 🗄️ SQL and databases
-- ☁️ Microsoft Azure
-- 🏗️ Data architecture
-- 🔒 Data governance
-- 🧱 Data structures
-- 🌐 Relational and non-relational data
-
----
-
+- 🔸 Data analysis using Microsoft Excel
+- 🔹 Data visualisation using Excel, Tableau, and Power BI
+- 🔸 Python for data analysis (Pandas, Matplotlib, Seaborn)
+- 🔹 SQL and databases
+- 🔸 Microsoft Azure
+- 🔹 Data architecture
+- 🔸 Data governance
+- 🔹 Data structures
+- 🔸 Relational and non-relational data
+- --
 ### 🛠️ Skills & Tools
 
 **Data Analysis & Visualisation**
