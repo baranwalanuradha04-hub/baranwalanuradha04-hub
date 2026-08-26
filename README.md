@@ -139,7 +139,7 @@ When I'm not working with data, I enjoy:
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey into Data Analytics.
+
 ###   🎯 What I'm Looking For
 
 I am looking to build a career in **Data Analysis and Data Technology**, combining my hands-on experience with **Python, Pandas, SQL, and Microsoft Azure** to help organisations make better data-driven decisions.
