@@ -91,28 +91,34 @@ As part of my Data Technician training, I have developed practical knowledge in:
 
 ---
 
-Motor Claims & Customer Service
-              │
-              ▼
-       Excel & Reporting
-              │
-              ▼
-       Data Technician Bootcamp
-              │
-       ┌──────┼────────┐
-       ▼      ▼        ▼
-      SQL   Tableau   Power BI
-       │      │        │
-       └──────┼────────┘
-              ▼
-           Python
-              │
-              ▼
-       Azure & Cloud Data
-              │
-              ▼
-      🚀 Data Analytics Career
+## 📊 My Data Journey
 
+```
+Motor Claims & Customer Service
+              |
+              v
+        Excel & Reporting
+              |
+              v
+     Data Technician Bootcamp
+              |
+              v
+      ------------------
+      |        |        |
+      v        v        v
+     SQL    Tableau   Power BI
+      |        |        |
+      ------------------
+              |
+              v
+           Python
+              |
+              v
+      Azure & Cloud Data
+              |
+              v
+   🚀 Data Analytics Career
+```
       ---
 ## 🔗 Connect With Me
 
