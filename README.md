@@ -77,15 +77,19 @@ As part of my Data Technician training, I have developed practical knowledge in:
 **Salesforce** — Certified Salesforce Administrator and Platform App Builder, with experience managing business systems, data, and reporting through the Salesforce platform.
 
 ---
-
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 - 📁 [My-Excel-Projects](https://github.com/baranwalanuradha04-hub/My-Excel-Projects) — data analysis using formulas, PivotTables, and charts on retail & sales data
 - 📁 [My-SQL-Projects](https://github.com/baranwalanuradha04-hub/My-SQL-Projects) — relational database design and querying with SELECT, JOINs, and GROUP BY
 - 📁 [My-Python-Projects](https://github.com/baranwalanuradha04-hub/My-Python-Projects) — Python scripts and mini-projects covering core programming concepts, data handling, and automation
 - 📁 [Python-Pandas-Projects-](https://github.com/baranwalanuradha04-hub/Python-Pandas-Projects-) — data cleaning, transformation, and analysis using the pandas library
-- 📁 [MY-Power-BI-and-Tableau-Projects](https://github.com/baranwalanuradha04-hub/MY-Power-BI-and-Tableau-Projects) — interactive dashboards and reports built in Power BI and Tableau, covering retail, sales, music, health, and employment data
+- 📁 [MY-Power-BI-and-Tableau-Projects](https://github.com/baranwalanuradha04-hub/MY-Power-BI-and-Tableau-Projects) — interactive dashboards and reports built in Power BI and Tableau,   covering retail, sales, music, health, and employment data
+- 📁 [My-Azure-Projects](https://github.com/baranwalanuradha04-hub/My-Azure-Projects) — cloud data projects using Azure SQL Database, Storage, Cosmos DB, and Microsoft Fabric Lakehouse
+- 📁 [My-Power-Bi-Projects](https://github.com/baranwalanuradha04-hub/My-Power-Bi-Projects) — additional Power BI dashboards and reporting
 
+---
+
+## 🔗 Connect With Me
 ---
 
 ### 🔗 Connect With Me
