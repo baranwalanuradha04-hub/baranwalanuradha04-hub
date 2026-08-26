@@ -1,8 +1,8 @@
 
 # Hi there, I'm Anuradha! 👋
 
-![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYSIS-2C3E50?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2E7D32?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-DATA%20ANALYSIS-39FF14?style=flat-square&labelColor=39FF14&color=FFFF00)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39FF14?style=flat-square&labelColor=39FF14&color=FFFF00)
 
 ### 🙋 About Me
 
