@@ -119,8 +119,7 @@ Motor Claims & Customer Service
               v
    🚀 Data Analytics Career
 ```
-      ---
-## 🔗 Connect With Me
+
 
 ## 🔗 Connect With Me
 
